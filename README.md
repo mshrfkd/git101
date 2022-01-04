@@ -3,3 +3,4 @@
 こんにちは、GitHub!
 
 test1
+test2
